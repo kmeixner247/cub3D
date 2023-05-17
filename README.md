@@ -49,10 +49,9 @@ The color lines have the following format:
 F <Red>,<Green>,<Blue>
 F <Red>,<Green>,<Blue>
 ```
-Where <Red>, <Green> and <Blue> are values between 0 and 255.
-  
+Where Red, Green and Blue are values between 0 and 255
 The map is an array of numbers representing walls(1), floor tiles(0) and doors(2). It must be fully enclosed in walls, including the corners. The player starting position is denoted with W, E, N or S, denoting the initial view direction. Spaces can be used for padding, but no other characters are allowed.
-  Here is a full valid map file:
+Here is a full valid map file:
 
 ```
 NO ./assets/textures/temple_textures/temple1.xpm
@@ -86,3 +85,6 @@ C 90,90,80
 10000000000000000000000000001000N001
 111111111111111111111111111111111111
 ```
+
+## Acknowledgements
+Created in cooperation with https://github.com/Edvinas1122/
