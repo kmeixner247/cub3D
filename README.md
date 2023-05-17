@@ -87,4 +87,6 @@ C 90,90,80
 ```
 
 ## Acknowledgements
-Created in cooperation with https://github.com/Edvinas1122/
+Created in cooperation with:
+
+Edvinas Momkus - https://github.com/Edvinas1122/
